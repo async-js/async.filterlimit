@@ -10,7 +10,7 @@
   "version": "0.4.3",
   "license": "MIT",
   "dependencies": {
-    "async.util.doparallellimit": "0.4.3",
+    "async.util.doparallellimit": "0.5.0",
     "async.util.filter": "0.4.3"
   },
   "keywords": [
